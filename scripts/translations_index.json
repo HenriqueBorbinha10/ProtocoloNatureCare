@@ -8,7 +8,7 @@
     "genderQuestion": "¿Cual es tu sexo?",
     "male": "Masculino",
     "female": "Femenino",
-    "activityQuestion": "¿Cuál es su nivel de obesidad?",
+    "activityQuestion": "¿Cuál es su nivel de azúcar en la sangre?",
     "activities": ["Ninguno", "Mínima", "Moderada", "Muy alta", "Extremadamente alta"],
     "submit": "Entrar"
   },
@@ -34,7 +34,7 @@
     "genderQuestion": "Qual é o seu sexo?",
     "male": "Masculino",
     "female": "Feminino",
-    "activityQuestion": "Qual é o seu nível de atividade fisica?",
+    "activityQuestion": "Qual é o seu nível de açucar no sangue?",
     "activities" : ["Nenhuma", "Mínima", "Moderada", "Muito alta", "Extremamente alta"],
     "submit": "Entrar"
   }
